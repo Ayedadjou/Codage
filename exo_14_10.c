@@ -1,5 +1,4 @@
 #include <stdio.h>
-//s<rgqnbjklgn
 int  main()
 {char c='A';
 int n;

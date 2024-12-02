@@ -1,5 +1,5 @@
 # include <unistd.h>
-
+// messqge inutile pour forcer ayedadjou a utiliser git :)
 int ft_isalnum(char*str)
 
 {  //On parcourt d'abord les caractères de la chaîne
